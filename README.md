@@ -1,1 +1,2 @@
 # LeapYear
+Program to find whether the year the user entered is a leap year with Java
